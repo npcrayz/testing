@@ -4,7 +4,7 @@ import { cn } from "@/utils/cn";
 import { StringController } from "three/examples/jsm/libs/lil-gui.module.min.js";
 import { useState } from "react";
 import { BackgroundGradientAnimation } from "./GradientBg";
-import { GlobeDemo, GridGlobe } from "./GridGlobe";
+import { GlobeDemo } from "./GridGlobe";
 import { IoCopyOutline } from "react-icons/io5";
 import Lottie from "react-lottie";
 import animationData from '@/data/confetti.json';
